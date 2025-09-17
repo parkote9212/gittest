@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 1.나는 test1 기록
+=======
+1.나는 main 기록
+>>>>>>> Stashed changes
 2.나는 test1 기록

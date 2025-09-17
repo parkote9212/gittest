@@ -1,4 +1,2 @@
-<<<<<<< Updated upstream
-branch test1전용
+1.나는 test1 기록
 2.나는 test1 기록
->>>>>>> Stashed changes
